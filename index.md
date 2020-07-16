@@ -8,7 +8,7 @@ This is our motivation for creating this webpage.
 
 ## Data Pre-Processing
 
-<li>[DARC (Python/Docker/...)](https://github.com/loostrum/darc)</li>
+<li> [DARC (Python/Docker/...)](https://github.com/loostrum/darc) </li>
 
 [FBFUSE GPU Correlator (CUDA/C++/Python)](https://github.com/ewanbarr/psrdada_cpp)
 
