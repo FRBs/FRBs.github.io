@@ -4,24 +4,44 @@ layout: default
 
 # Motivation
 
-This is our motivation for creating this webpage.
+This site is intended to be the home of FRB community software. Here you will find links to public code repositories used for FRB science, guides for using these, and information on how you can contribute to with your own software. Repos listed under the [FRBs Organisation](https://github.com/FRBs) on GitHub that have been quality assessed for usability and, importantly, have been provided free by the FRB community, for everyone.
 
-# Software compilation
+# Software repos
 
-## Data Pre-Processing
+## Basic FRB-related Calculations
 
-- [DARC (Python/Docker/...)](https://github.com/loostrum/darc)
+- [FRB](https://github.com/FRBs/FRB)
 
-- [FBFUSE GPU Correlator (CUDA/C++/Python)](https://github.com/ewanbarr/psrdada_cpp)
+- [pulsars](https://github.com/FRBs/pulsars)
 
-- [xGPU (CUDA)](https://github.com/GPU-correlators/xGPU)
+## Electron Density Models
 
-- [DiFX (C++/IPP)](https://www.atnf.csiro.au/vlbi/dokuwiki/doku.php/difx/documentation)
+- [NE2001](https://github.com/FRBs/ne2001)
 
-- [PSRDADA](http://psrdada.sourceforge.net)
+## Data Pre-processing 
 
-- [HASHPIPE](https://casper.ssl.berkeley.edu/wiki/HASHPIPE)
+- Coming soon ...
+
+## FRB Searching
+
+- Coming soon ...
 
 ## Data Post-Processing
 
-- More coming.
+- Coming soon ...
+
+## Webpages
+
+- [This site](https://github.com/FRBs/FRBs.github.io)
+
+- [FRB Hosts](https://github.com/FRBs/FRBhostpage)
+
+## Misc
+
+- [LCOGT](https://github.com/FRBs/LCOGT)
+
+- [datalab](https://github.com/FRBs/datalab)
+
+# Join In
+
+- If you want to contribute to the FRB Community Software effort you are more than welcome to do so. In the first instance please read our [software guidelines](https://docs.google.com/document/d/1YOqif6MlPOtxfbmrT40nlKyT0szcfUEDSty3-vQjvNw/) as to how to do that.
