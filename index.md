@@ -4,7 +4,7 @@ layout: default
 
 # Motivation
 
-This site is intended to be the home of FRB community software. Here you will find links to public code repositories used for FRB science, guides for using these, and information on how you can contribute to with your own software. Repos listed under the [FRBs Organisation](https://github.com/FRBs) on GitHub that have been quality assessed for usability and, importantly, have been provided free by the FRB community, for everyone.
+This site is intended to be the home of FRB community software. Here you will find links to public code repositories used for FRB science, guides for using these, and information on how you can contribute with your own software. Repos listed under the [FRBs Organisation](https://github.com/FRBs) on GitHub have been quality assessed for usability and, importantly, have been provided free by the FRB community, for everyone.
 
 # Software repos
 
@@ -16,7 +16,7 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 ## Electron Density Models
 
-- [NE2001](https://github.com/FRBs/ne2001)
+- NE2001 - A Milky Way electron density model - [Source Code](https://github.com/FRBs/ne2001) - [User Guide](frb.software)
 
 ## Data Pre-processing 
 
