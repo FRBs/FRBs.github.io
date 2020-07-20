@@ -14,11 +14,21 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 - [pulsars](https://github.com/FRBs/pulsars)
 
+## Data Post-Processing
+
+- Coming soon ...
+
+## Data Pre-processing 
+
+- Coming soon ...
+
 ## Electron Density Models
 
 - NE2001 - A Milky Way electron density model - [Source Code](https://github.com/FRBs/ne2001) - [User Guide](frb.software)
 
-## Data Pre-processing 
+- pygedm - Python bindings for multiple Milky Way electron density models - [Source Code](https://github.com/FRBs/pygedm) - [User Guide](frb.software)
+
+## FRB Population Studies 
 
 - Coming soon ...
 
@@ -26,15 +36,11 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 - Coming soon ...
 
-## Data Post-Processing
-
-- Coming soon ...
-
 ## Webpages
 
-- [This site](https://github.com/FRBs/FRBs.github.io)
+- The source code for [this site](https://github.com/FRBs/FRBs.github.io)
 
-- [FRB Hosts](https://github.com/FRBs/FRBhostpage)
+- [FRB Hosts](https://github.com/FRBs/FRBhostpage) - A Webpage providing details on host galaxies of localised FRBs 
 
 ## Misc
 
