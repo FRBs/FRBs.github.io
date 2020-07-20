@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Code of Conduct
 
 Here follows the code of conduct for work related to FRB Software.
