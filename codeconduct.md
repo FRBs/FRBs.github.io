@@ -2,8 +2,7 @@
 
 Here follows the code of conduct for work related to FRB Software.
 It is a modified version of
-[the one adopted by the astropy community]
-(https://www.astropy.org/code_of_conduct.html).
+[the one adopted by the astropy community](https://www.astropy.org/code_of_conduct.html).
 
 
 # FRB Software Code of Conduct
