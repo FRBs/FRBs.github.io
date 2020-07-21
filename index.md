@@ -10,9 +10,9 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 ## Basic FRB-related Calculations
 
-- [FRB](https://github.com/FRBs/FRB) - Python code related to DM calculations, estimates and analysis - [User Guide](frb.software/FRB.md)
+- [FRB](https://github.com/FRBs/FRB) - Python code related to DM calculations, estimates and analysis - [User Guide](frb.software/FRB.html)
 
-- [pulsars](https://github.com/FRBs/pulsars) - Python code and files relates to pulsars with emphasis on FRB research - [User Guide](frb.software/pulsars.md)
+- [pulsars](https://github.com/FRBs/pulsars) - Python code and files relates to pulsars with emphasis on FRB research - [User Guide](frb.software/pulsars.html)
 
 ## Data Post-Processing
 
@@ -24,9 +24,9 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 ## Electron Density Models
 
-- [NE2001](https://github.com/FRBs/ne2001)  - Python port of NE2001, a Milky Way electron density model - [User Guide](frb.software/ne2001.md)
+- [NE2001](https://github.com/FRBs/ne2001)  - Python port of NE2001, a Milky Way electron density model - [User Guide](frb.software/ne2001.html)
 
-- [pygedm](https://github.com/FRBs/pygedm)  - Python bindings for multiple Milky Way electron density models - [User Guide](frb.software/pygedm.md)
+- [pygedm](https://github.com/FRBs/pygedm)  - Python bindings for multiple Milky Way electron density models - [User Guide](frb.software/pygedm.html)
 
 ## FRB Population Studies 
 
@@ -40,13 +40,13 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 - The source code for [this site](https://github.com/FRBs/FRBs.github.io)
 
-- [FRB Hosts](https://github.com/FRBs/FRBhostpage) - A Webpage providing details on host galaxies of localised FRBs 
+- [FRB Hosts](https://github.com/FRBs/FRBhostpage) - A Webpage providing details on host galaxies of localised FRBs - [User Guide](frb.software/FRBhostpage.html)
 
 ## Misc
 
-- [LCOGT](https://github.com/FRBs/LCOGT) - Code related to handling images, and difference images, with LCOGT - [User Guide](frb.software/LCOGT.md)
+- [LCOGT](https://github.com/FRBs/LCOGT) - Code related to handling images, and difference images, with LCOGT - [User Guide](frb.software/LCOGT.html)
 
-- [datalab](https://github.com/FRBs/datalab) - A command-line Python client for the NOAO Data Lab - [User Guide](frb.software/datalab.md)
+- [datalab](https://github.com/FRBs/datalab) - A command-line Python client for the NOAO Data Lab - [User Guide](frb.software/datalab.html)
 
 # Join In
 
