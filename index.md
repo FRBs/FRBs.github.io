@@ -8,12 +8,13 @@ title: Home
 This site is intended to be the home of FRB community software. Here you will find links to public code repositories used for FRB science, guides for using these, and information on how you can contribute with your own software. Repos listed under the [FRBs Organisation](https://github.com/FRBs) on GitHub have been quality assessed for usability and, importantly, have been provided free by the FRB community, for everyone.
 
 # Software repos
+User guides for these software packages can be found by clicking on the books (📓) beside their names. The markdown files behind these guides can be found [here](https://github.com/FRBs/FRBs.github.io/tree/master/user-guides), and contributions can be made through pull requests.
 
 ## Basic FRB-related Calculations
 
-- [FRB](https://github.com/FRBs/FRB) - Python code related to DM calculations, estimates and analysis - [User Guide](https://frb.software/user-guides/FRB.html)
+- [FRB](https://github.com/FRBs/FRB) - Python code related to DM calculations, estimates and analysis [📓](https://frb.software/user-guides/FRB.html)
 
-- [pulsars](https://github.com/FRBs/pulsars) - Python code and files relates to pulsars with emphasis on FRB research - [User Guide](https://frb.software/user-guides/pulsars.html)
+- [pulsars](https://github.com/FRBs/pulsars) - Python code and files relates to pulsars with emphasis on FRB research [📓](https://frb.software/user-guides/pulsars.html)
 
 ## Data Post-Processing
 
@@ -25,9 +26,9 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 ## Electron Density Models
 
-- [NE2001](https://github.com/FRBs/ne2001)  - Python port of NE2001, a Milky Way electron density model - [User Guide](https://frb.software/user-guides/ne2001.html)
+- [NE2001](https://github.com/FRBs/ne2001)  - Python port of NE2001, a Milky Way electron density model [📓](https://frb.software/user-guides/ne2001.html)
 
-- [pygedm](https://github.com/FRBs/pygedm)  - Python bindings for multiple Milky Way electron density models - [User Guide](https://frb.software/user-guides/pygedm.html)
+- [pygedm](https://github.com/FRBs/pygedm)  - Python bindings for multiple Milky Way electron density models [📓](https://frb.software/user-guides/pygedm.html)
 
 ## FRB Population Studies 
 
@@ -41,13 +42,13 @@ This site is intended to be the home of FRB community software. Here you will fi
 
 - The source code for [this site](https://github.com/FRBs/FRBs.github.io)
 
-- [FRB Hosts](https://github.com/FRBs/FRBhostpage) - A Webpage providing details on host galaxies of localised FRBs - [User Guide](https://frb.software/user-guides/FRBhostpage.html)
+- [FRB Hosts](https://github.com/FRBs/FRBhostpage)  - A Webpage providing details on host galaxies of localised FRBs [📓](https://frb.software/user-guides/FRBhostpage.html)
 
 ## Misc
 
-- [LCOGT](https://github.com/FRBs/LCOGT) - Code related to handling images, and difference images, with LCOGT - [User Guide](https://frb.software/user-guides/LCOGT.html)
+- [LCOGT](https://github.com/FRBs/LCOGT) - Code related to handling images, and difference images, with LCOGT [📓](https://frb.software/user-guides/LCOGT.html)
 
-- [datalab](https://github.com/FRBs/datalab) - A command-line Python client for the NOAO Data Lab - [User Guide](https://frb.software/user-guides/datalab.html)
+- [datalab](https://github.com/FRBs/datalab) - A command-line Python client for the NOAO Data Lab [📓](https://frb.software/user-guides/datalab.html)
 
 # Join In
 
