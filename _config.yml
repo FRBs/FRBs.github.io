@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title : FRB software
 description : The Home of FRB Community Software
+
+github:
+  repository_url: https://github.com/FRBs
