@@ -40,7 +40,7 @@ User guides for these software packages can be found by clicking on the books (�
 
 ## FRB Searching
 
-- [sigproc](https://github.com/FRBs/LCOGT) - Software suite for FRB searching, and signal analysis routines relevant to high-time resollution radio data [📓](https://frb.software/user-guides/LCOGT.html)
+- [sigproc](https://github.com/FRBs/sigproc) - Software suite for FRB searching and other signal analysis routines relevant to high-time resollution radio data [📓](https://frb.software/user-guides/sigproc.html)
 
 - More coming soon ...
 
