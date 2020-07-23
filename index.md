@@ -48,7 +48,7 @@ User guides for these software packages can be found by clicking on the books (�
 
 - The source code for [this site](https://github.com/FRBs/FRBs.github.io)
 
-- [FRB Hosts](https://github.com/FRBs/FRBhostpage)  - A Webpage providing details on host galaxies of localised FRBs [📓](https://frb.software/user-guides/FRBhostpage.html)
+- [FRB Hosts](https://github.com/FRBs/FRBhostpage) - The source code for [this page](https://http://frbhosts.org) which provides details on host galaxies of localised FRBs [📓](https://frb.software/user-guides/FRBhostpage.html)
 
 - More coming soon ...
 
