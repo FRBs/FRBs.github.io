@@ -16,6 +16,8 @@ User guides for these software packages can be found by clicking on the books (�
 
 - [pulsars](https://github.com/FRBs/pulsars) - Python code and files relates to pulsars with emphasis on FRB research [📓](https://frb.software/user-guides/pulsars.html)
 
+- More coming soon ...
+
 ## Data Post-Processing
 
 - Coming soon ...
@@ -30,13 +32,17 @@ User guides for these software packages can be found by clicking on the books (�
 
 - [pygedm](https://github.com/FRBs/pygedm)  - Python bindings for multiple Milky Way electron density models [📓](https://frb.software/user-guides/pygedm.html)
 
+- More coming soon ...
+
 ## FRB Population Studies 
 
 - Coming soon ...
 
 ## FRB Searching
 
-- Coming soon ...
+- [sigproc](https://github.com/FRBs/LCOGT) - Software suite for FRB searching, and signal analysis routines relevant to high-time resollution radio data [📓](https://frb.software/user-guides/LCOGT.html)
+
+- More coming soon ...
 
 ## Webpages
 
@@ -44,11 +50,15 @@ User guides for these software packages can be found by clicking on the books (�
 
 - [FRB Hosts](https://github.com/FRBs/FRBhostpage)  - A Webpage providing details on host galaxies of localised FRBs [📓](https://frb.software/user-guides/FRBhostpage.html)
 
+- More coming soon ...
+
 ## Misc
 
 - [LCOGT](https://github.com/FRBs/LCOGT) - Code related to handling images, and difference images, with LCOGT [📓](https://frb.software/user-guides/LCOGT.html)
 
 - [datalab](https://github.com/FRBs/datalab) - A command-line Python client for the NOAO Data Lab [📓](https://frb.software/user-guides/datalab.html)
+
+- [Transient Phase Space](https://github.com/FRBs/Transient_Phase_Space) - C/gnuplot code to make a plot of the phase space of time-variable astronomical sources of radio [📓](https://frb.software/user-guides/phase_space.html)
 
 # Join In
 
