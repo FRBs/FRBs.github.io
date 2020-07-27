@@ -40,7 +40,9 @@ User guides for these software packages can be found by clicking on the books (�
 
 ## FRB Searching
 
-- [sigproc](https://github.com/FRBs/sigproc) - Software suite for FRB searching and other signal analysis routines relevant to high-time resollution radio data [📓](https://frb.software/user-guides/sigproc.html)
+- [sigproc](https://github.com/FRBs/sigproc) - Software suite for FRB searching and other signal analysis routines relevant to high-time resolution radio data [📓](https://frb.software/user-guides/sigproc.html)
+
+- [sigpyproc3](https://github.com/FRBs/sigpyproc3) - Python 3 version of sigpyproc, a software suite for FRB searching and other signal analysis routines relevant to high-time resolution radio data [📓](https://frb.software/user-guides/sigpyproc.html)
 
 - More coming soon ...
 
