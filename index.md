@@ -36,7 +36,9 @@ User guides for these software packages can be found by clicking on the books (ð
 
 ## FRB Population Studies 
 
-- Coming soon ...
+- [PreFRBLE](https://github.com/FRBs/PreFRBLE) - Python package for FRB population modelling [ðŸ““](https://frb.software/user-guides/prefrble.html)
+
+- More coming soon ...
 
 ## FRB Searching
 
