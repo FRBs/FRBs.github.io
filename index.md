@@ -18,9 +18,34 @@ User guides for these software packages can be found by clicking on the books (�
 
 - More coming soon ...
 
-## Data Post-Processing
+## Catalogues
+
+- [FRBcat](https://github.com/FRBs/FRB/blob/main/frb/frbcat.py) - Python code part of the [FRB](https://github.com/FRBs/FRB) repository.
+
+- [TNS](https://www.wis-tns.org/) - Transient Naming Server (TNS) catalogue of FRBs
+
+- [FRBSTATS](https://www.herta-experiment.org/frbstats/) - FRB catalogue providing an API
+
+## Propagation effects
 
 - Coming soon ...
+
+### Scattering
+
+- [Scattering](https://github.com/FRBs/FRB/blob/main/frb/turb_scattering.py) - Python code for scattering by ISM
+
+### Dispersion Measure
+
+- [Halo gas](https://github.com/FRBs/FRB/blob/main/frb/halos.py)
+
+- [Macquart relation](https://github.com/FRBs/FRB/tree/main/frb/dm)
+
+- [NE2001](https://github.com/FRBs/ne2001)  - Python port of NE2001, a Milky Way electron density model [📓](https://frb.software/user-guides/ne2001.html)
+
+- [pygedm](https://github.com/FRBs/pygedm)  - Python bindings for multiple Milky Way electron density models [📓](https://frb.software/user-guides/pygedm.html)
+
+- [DM_IGM](https://github.com/FRBs/FRB/blob/main/frb/dm/igm.py)
+
 
 ## Data Pre-processing 
 
@@ -28,17 +53,16 @@ User guides for these software packages can be found by clicking on the books (�
 
 ## Electron Density Models
 
-- [NE2001](https://github.com/FRBs/ne2001)  - Python port of NE2001, a Milky Way electron density model [📓](https://frb.software/user-guides/ne2001.html)
-
-- [pygedm](https://github.com/FRBs/pygedm)  - Python bindings for multiple Milky Way electron density models [📓](https://frb.software/user-guides/pygedm.html)
-
 - More coming soon ...
 
 ## FRB Population Studies 
 
 - [PreFRBLE](https://github.com/FRBs/PreFRBLE) - Python package for FRB population modelling [📓](https://frb.software/user-guides/prefrble.html)
 
+- [zdm](https://github.com/FRBs/zdm) - Python package for z-DM distribution of FRBs
+
 - More coming soon ...
+
 
 ## FRB Searching
 
@@ -47,6 +71,14 @@ User guides for these software packages can be found by clicking on the books (�
 - [sigpyproc3](https://github.com/FRBs/sigpyproc3) - Python 3 version of sigpyproc, a software suite for FRB searching and other signal analysis routines relevant to high-time resolution radio data [📓](https://frb.software/user-guides/sigpyproc.html)
 
 - More coming soon ...
+
+## Localization
+
+- [PATH](https://github.com/FRBs/astropath) Probabilistic association of transients to hosts - Python package to calculate bayesian probabilities of host association
+
+- [Published data](https://github.com/FRBs/FRB/blob/main/frb/galaxies/hosts.py) 
+
+- [hosts](https://github.com/FRBs/FRB/blob/main/frb/galaxies/hosts.py)
 
 ## Webpages
 
